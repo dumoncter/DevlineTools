@@ -1,0 +1,5 @@
+venv
+UPDATE_TEXT
+.vscode
+docker/telegram_settings.py
+docker/ip_devline.json
